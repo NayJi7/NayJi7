@@ -10,9 +10,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
 </div>
 
----
+#
 
-## ⚡ Quick Facts
+### ⚡ Quick Facts
 
 ``` javascript
 const me = {
@@ -23,7 +23,7 @@ const me = {
 };
 ```
 
-## 📊 My GitHub Journey <img src="https://img.shields.io/github/followers/NayJi7?style=flat-square&logo=github&color=00D9FF&label=Followers" align="right"/> <img src="https://komarev.com/ghpvc/?username=NayJi7&color=00D9FF&style=flat-square&label=Profile+Views" align="right"/>
+### 📊 My GitHub Journey <img src="https://img.shields.io/github/followers/NayJi7?style=flat-square&logo=github&color=00D9FF&label=Followers" align="right"/> <img src="https://komarev.com/ghpvc/?username=NayJi7&color=00D9FF&style=flat-square&label=Profile+Views" align="right"/>
 <div align="center">
 
   <!-- Using different endpoints to avoid rate limits -->
@@ -35,7 +35,7 @@ const me = {
   <img src="https://streak-stats.demolab.com/?user=NayJi7&theme=tokyonight&hide_border=true" alt="NayJi7's streak"/>
 </div>
 
-## 🎯 My Favorite Projects 
+### 🎯 My Favorite Projects 
 <div align="center">
   <a href="https://github.com/NayJi7/SecureSync">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NayJi7&repo=SecureSync&theme=tokyonight&hide_border=true&cache_seconds=86400" />
@@ -48,7 +48,7 @@ const me = {
   </a>
 </div>
 
-## 🤝 Want to Join me ?
+### 🤝 Want to Join me ?
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
