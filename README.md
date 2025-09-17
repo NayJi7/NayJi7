@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hello,+World!;Welcome+to+my+Github.;Enjoy+Exploring!" alt="Typing SVG" />
 </div>
 
+<br><br>
+
 <div align="center">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /></a>
@@ -38,7 +40,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/NayJi7/AdamOS/refs/heads/main/public/icon.png?token=GHSAT0AAAAAADITEAXNNEVHUPZYW42SCBBK2GLFQBA" alt="Website" width="25" height="25" /> My Website <sub>*(Discover more about me)*</sub>
+### <img src="https://raw.githubusercontent.com/NayJi7/AdamOS/refs/heads/main/public/icon.png?token=GHSAT0AAAAAADITEAXNNEVHUPZYW42SCBBK2GLFQBA" alt="Website" width="25" height="25" valign="middle" /> My Website <sub>*(Discover more about me)*</sub>
 
 <div align="center">
   <a href="https://adamterrak.me" target="_blank">
@@ -46,11 +48,11 @@
   </a>
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="About" width="25" height="25" /> Me <sub>*(in a nutshell)*</sub>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="About" width="25" height="25" valign="middle" /> Me <sub>*(in a nutshell)*</sub>
 
 ```bash
-                    #%%%%##
-              #%%%%%%%%%%%%%%%%%#
+              #%%%%#,
+              #%%%%%%%%%%%%%%%%#
           #%%%%%%%%%%%%%%%%%%%%%#
           #%%%%%%%%%%%%%%%%%%%%%%                
             #%%==#%%%%%%%%%%%%%%%%               
@@ -77,7 +79,7 @@ NayJi7@github:~$
 ```
 
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" height="25" /> My GitHub <sub>*(My universe)*</sub>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" height="25" valign="middle" /> My GitHub <sub>*(My universe)*</sub>
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/NayJi7?style=flat-square&logo=github&color=00D9FF&label=Followers" />
@@ -94,7 +96,7 @@ NayJi7@github:~$
 </div>
 
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Projects" width="25" height="25" /> My Favorite Projects <sub>*(My playground)*</sub>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Projects" width="25" height="25" valign="middle" /> My Favorite Projects <sub>*(My playground)*</sub>
 
 <div align="center">
   <a href="https://github.com/NayJi7/SecureSync">
@@ -109,7 +111,7 @@ NayJi7@github:~$
 </div>
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Progress" width="25" height="25" /> Current Progress <sub>*(My journey)*</sub>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Progress" width="25" height="25" valign="middle" /> Current Progress <sub>*(My journey)*</sub>
 
 <div align="center">
 
@@ -124,7 +126,7 @@ NayJi7@github:~$
 </div>
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Connect" width="25" height="25" /> Let's Connect! <sub>*(I'd love to hear from you)*</sub>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Connect" width="25" height="25" valign="middle" /> Let's Connect! <sub>*(I'd love to hear from you)*</sub>
 
 <div align="center">
 
