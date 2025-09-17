@@ -139,7 +139,7 @@ NayJi7@github:~$
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@adamterrak.me)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nay.ji)
 
-<p>Always open to new opportunities and collaborations!</p>
+> Always open to new opportunities and collaborations!
 
 </div>
 
