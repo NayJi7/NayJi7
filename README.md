@@ -41,6 +41,11 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/NayJi7/AdamOS/refs/heads/main/public/icon.png?token=GHSAT0AAAAAADITEAXNNEVHUPZYW42SCBBK2GLFQBA" alt="Website" width="25" height="25" valign="middle" /> My Website <sub>*(Discover more about me)*</sub>
+<div align="center">
+
+> *Some of my projects are in **private repositories** for confidentiality reasons. You can find details about them in the explorer on my website by **clicking below!***
+
+</div>
 
 <div align="center">
   <a href="https://adamterrak.me" target="_blank">
