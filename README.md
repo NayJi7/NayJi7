@@ -66,7 +66,7 @@
               #:::::::::::::-+-::-+                OS: Passionate dev
               #::::::::::::::--::=                 Spec: Software, Web, Mobile, AI
               #=::::::::::::+%%                    IDE: VS Code, Visual Studio, Android Studio
-              #-:::::::::--*#                      Languages: French 🇫🇷, English 🇺🇸, Arabic 🇲🇦
+              #-:::::::::--*#                      Languages: French 🇫🇷, English 🇬🇧, Arabic 🇲🇦
                 #-::::--=--+                       Host: Thales AVS & CyTech, in France
                   #====-::-+                       Kernel: Software Engineering Student Apprentice
               ##%%%=-::::::-#%%%%#                 Uptime: Since 2022
