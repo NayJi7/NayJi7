@@ -39,19 +39,6 @@
 
 ---
 
-### <img src="https://adamterrak.me/icon.png" alt="Website" width="25" height="25" valign="middle" /> My Website <sub>*(Discover more about me)*</sub>
-<div align="center">
-
-> *Some of my projects are in **private repositories** for confidentiality reasons. You can find details about them in the explorer on my website by **clicking below!***
-
-</div>
-
-<div align="center">
-  <a href="https://adamterrak.me" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_adamterrak.me-Visit_My_Website-00D9FF?style=for-the-badge&logo=globe&logoColor=white" alt="Visit adamterrak.me" />
-  </a>
-</div>
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="About" width="25" height="25" valign="middle" /> Me <sub>*(in a nutshell)*</sub>
 
 ```bash
