@@ -97,7 +97,7 @@ NayJi7@github:~$
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NayJi7&repo=c-pokemon&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   </a>
   <a href="https://github.com/NayJi7/CyCalendar">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NayJi7&repo=CyCalendar&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NayJi7&repo=CyPay&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   </a>
 </div>
 
