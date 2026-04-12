@@ -47,14 +47,14 @@
           #%%%%%%%%%%%%%%%%%%%%%#
           #%%%%%%%%%%%%%%%%%%%%%%                
             #%%==#%%%%%%%%%%%%%%%%               
-            #%-::--=*%%%%%%%%%%%%%               Adam@Terrak
+            #%-::--=*%%%%%%%%%%%%%               Adam@nayji7
               #:::::::::::::+%%%%%%              _ __________________________________________ _ __ _
               #:::::::::::::=%%*=*#              
               #:::::::::::::-+-::-+                OS: Passionate dev
               #::::::::::::::--::=                 Spec: Software, Web, Mobile, AI
               #=::::::::::::+%%                    IDE: VS Code, Visual Studio, Android Studio
               #-:::::::::--*#                      Languages: French 🇫🇷, English 🇬🇧, Arabic 🇲🇦
-                #-::::--=--+                       Host: Thales AVS & CyTech, in France
+                #-::::--=--+                       Host: Thales & CyTech, in France
                   #====-::-+                       Kernel: Software Engineering Student Apprentice
               ##%%%=-::::::-#%%%%#                 Uptime: Since 2022
         #%%@@@@@@@@#-:::::=#@@@@@@@@@%#            Memory: Fast learner, Avid searcher
