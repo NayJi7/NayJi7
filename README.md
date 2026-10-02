@@ -2,13 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hello,+World!;Welcome+to+my+GitHub.;Enjoy+Exploring!" alt="Typing SVG" />
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,kotlin,flutter,js,ts,php,py,bash,react,nextjs,nodejs,threejs,tensorflow,pytorch,sklearn,jupyter,mysql,postgres,git,docker,linux,githubactions,vercel&perline=9&theme=dark" alt="Tech stack" />
 
 </div>
+
+<br>
 
 ---
 
