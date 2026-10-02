@@ -8,9 +8,12 @@
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,kotlin,flutter,js,ts,php,py,bash,react,nextjs,nodejs,threejs,tensorflow,pytorch,sklearn,jupyter,mysql,postgres,git,docker,linux,githubactions,vercel&perline=9&theme=dark" alt="Tech stack" />
 
-</div>
-
 <br>
+<br>
+
+<a href="https://adamterrak.com"><img src="https://raw.githubusercontent.com/NayJi7/NayJi7/main/assets/portfolio-button.svg" width="224" alt="Visit adamterrak.com" /></a>
+
+</div>
 
 ---
 
@@ -48,13 +51,13 @@ NayJi7@github:~$
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" height="25" valign="middle" /> My GitHub <sub>*(My universe)*</sub>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/NayJi7?style=flat-square&logo=github&color=00D9FF&label=Followers" />
-  <img src="https://komarev.com/ghpvc/?username=NayJi7&color=00D9FF&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/NayJi7?style=flat-square&logo=github&color=af86de&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=NayJi7&color=af86de&style=flat-square&label=Profile+Views" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NayJi7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NayJi7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-two-alpha-87.vercel.app/api?username=NayJi7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-two-alpha-87.vercel.app/api/top-langs/?username=NayJi7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400"/>
 </div>
 
 <div align="center">
@@ -65,14 +68,14 @@ NayJi7@github:~$
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Projects" width="25" height="25" valign="middle" /> My Favorite Projects <sub>*(My playground)*</sub>
 
 <div align="center">
-  <a href="https://github.com/NayJi7/SecureSync">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NayJi7&repo=SecureSync&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <a href="https://github.com/NayJi7/gitoui">
+    <img src="https://github-readme-stats-two-alpha-87.vercel.app/api/pin/?username=NayJi7&repo=gitoui&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/NayJi7/FactNet">
+    <img src="https://github-readme-stats-two-alpha-87.vercel.app/api/pin/?username=NayJi7&repo=FactNet&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   </a>
   <a href="https://github.com/NayJi7/c-pokemon">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NayJi7&repo=c-pokemon&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/NayJi7/CyCalendar">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NayJi7&repo=CyPay&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-two-alpha-87.vercel.app/api/pin/?username=NayJi7&repo=c-pokemon&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   </a>
 </div>
 
@@ -83,10 +86,10 @@ NayJi7@github:~$
 
 | Progress | Status |
 |----------|--------|
-| **Learning New Things** | ![](https://progress-bar.xyz/99?width=400&show_text=false&style=neo-glass&progress_color=bf91f3) |
-| **Pursuing my engineering degree** | ![](https://progress-bar.xyz/85?width=400&show_text=false&style=neo-glass&progress_color=bf91f3) |
-| **Working as a Software Engineer** | ![](https://progress-bar.xyz/90?width=400&show_text=false&style=neo-glass&progress_color=bf91f3) |
-| **Building Projects** | ![](https://progress-bar.xyz/70?width=400&show_text=false&style=neo-glass&progress_color=bf91f3) |
+| **Learning New Things** | ![](https://progress-bar.xyz/90?width=400&show_text=false&style=neo-glass&progress_color=bf91f3) |
+| **Pursuing my engineering degree** | ![](https://progress-bar.xyz/80?width=400&show_text=false&style=neo-glass&progress_color=bf91f3) |
+| **Working as a Software Engineer** | ![](https://progress-bar.xyz/67?width=400&show_text=false&style=neo-glass&progress_color=bf91f3) |
+| **Building Projects** | ![](https://progress-bar.xyz/75?width=400&show_text=false&style=neo-glass&progress_color=bf91f3) |
 | **Acquiring Certifications** | ![](https://progress-bar.xyz/40?width=400&show_text=false&style=neo-glass&progress_color=bf91f3) |
 
 </div>
