@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="48" viewBox="0 0 224 48" role="img" aria-label="Visit adamterrak.com">
+  <title>Visit adamterrak.com</title>
+  <rect x="0.5" y="0.5" width="223" height="47" rx="10" fill="#242938" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <text x="16" y="29" textLength="33" lengthAdjust="spacing" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="11" font-weight="300" fill="#707A8C">visit</text>
+  <text x="56" y="29" textLength="118" lengthAdjust="spacing" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="600"><tspan fill="#E6EDF3">adamterrak</tspan><tspan fill="#00D9FF">.com</tspan></text>
+  <path transform="translate(188 15) scale(0.0703125)" fill="#00D9FF" d="M204,64V168a12,12,0,0,1-24,0V93L72.49,200.49a12,12,0,0,1-17-17L163,76H88a12,12,0,0,1,0-24H192A12,12,0,0,1,204,64Z"/>
+</svg>
