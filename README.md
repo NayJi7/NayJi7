@@ -11,8 +11,6 @@
 <br>
 <br>
 
-<a href="https://adamterrak.com"><img src="https://raw.githubusercontent.com/NayJi7/NayJi7/refs/heads/main/assets/portfolio-button.svg" width="224" alt="Visit adamterrak.com" /></a>
-
 </div>
 
 ---
